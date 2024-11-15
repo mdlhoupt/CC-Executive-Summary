@@ -6,6 +6,8 @@
 
 ## Results
 
+<img src="Execsumm_bargraph.png" alt="Bar graph" width="800"/>
+
 ## Discussion 
 
 <img src="Execsumm_flowchart.jpeg" alt="Flow chart" width="800"/>
