@@ -8,4 +8,6 @@
 
 ## Discussion 
 
+<img src="Execsumm_flowchart.jpeg" alt="Flow chart" width="800"/>
+
 ## Conclusion
