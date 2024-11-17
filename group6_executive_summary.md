@@ -1,4 +1,4 @@
-# Executive Public Summary on the Impacts of Elevated Temperatures on Prenatal Development
+# The Impacts of Elevated Ambient Temperatures on Prenatal Development
 
 ## Introduction
 
