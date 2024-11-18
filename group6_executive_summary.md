@@ -35,7 +35,7 @@ Cowell, Whitney, Natasha Ard, Teresa Herrera, Eleanor A. Medley, and Leonardo Tr
 
 Dalugoda, Yohani, Jyothi Kuppa, Hai Phung, Shannon Rutherford, and Dung Phung. 2022. “Effect of Elevated Ambient Temperature on Maternal, Foetal, and Neonatal Outcomes: A Scoping Review.” International Journal of Environmental Research and Public Health 19 (3): 1771. https://doi.org/10.3390/ijerph19031771.
 
-Dosio, Alessandro, Lorenzo Mentaschi, Erich Markus Fischer, and Klaus Wyser. 2018. “Extreme Heat Waves under 1.5°C and 2°C Global Warming.” ENVIRONMENTAL RESEARCH LETTERS, April. https://doi.org/10.1088/1748-9326/aab827.
+Dosio, Alessandro, Lorenzo Mentaschi, Erich Markus Fischer, and Klaus Wyser. 2018. “Extreme Heat Waves under 1.5°C and 2°C Global Warming.” Environmental Reserach Letters, April. https://doi.org/10.1088/1748-9326/aab827.
 
 Roos, Nathalie, Sari Kovats, Shakoor Hajat, Veronique Filippi, Matthew Chersich, Stanley Luchters, Fiona Scorgie, Britt Nakstad, Olof Stephansson, and CHAMNHA Consortium. 2021. “Maternal and Newborn Health Risks of Climate Change: A Call for Awareness and Global Action.” Acta Obstetricia Et Gynecologica Scandinavica 100 (4): 566–70. https://doi.org/10.1111/aogs.14124.
 
