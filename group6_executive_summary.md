@@ -11,6 +11,7 @@ We used scoping review methods, conducting a comprehensive search of the literat
 The included original research studies spanned 58 countries, although the majority were conducted in North America and Asia. Across these studies, 19 different adverse fetal developmental outcomes were found to be associated with heat exposure (Figure 1). Preterm birth, low birthweight, and stillbirth were the most commonly reported outcomes.
 
 <img src="Execsumm_bargraph.png" alt="Bar graph" width="800"/>
+
 *Figure 1. Adverse prenatal developmental outcomes associated with exposure to elevated ambient temperatures. These outcomes were all reported by the original research articles found in our literature search. 19 different outcomes were identified, with preterm birth being the most reported outcome.*
 
 A variety of biological mechanisms for observed heat-related pregnancy outcomes were proposed by the articles reviewed (Figure 2). Heat exposure causes the body to produce heat-shock proteins that interfere with normal protein activity and cause cell damage, leading to growth restriction and birth defects.2 Blood flow is also redirected away from the uterus and placenta during heat exposure, which can impair fetal growth and cause stillbirth.3 Dehydration from excess sweating increases risk of stillbirth, as it lowers levels of vital fluids surrounding the fetus.4,5 Heat stress also increases hormone levels, such as cortisol, which can trigger labour and cause preterm birth.4,5
@@ -18,6 +19,7 @@ A variety of biological mechanisms for observed heat-related pregnancy outcomes 
 Many studies also identified the need for interventions to support pregnant individuals in the face of climate change, pointing to heat-resilient prenatal care and financial support for pregnant individuals as promising mitigation strategies. 
 
 <img src="Execsumm_flowchart.jpeg" alt="Flow chart" width="800"/>
+
 *Figure 2. The primary biological mechanisms through which heat exposure can impact prenatal development and lead to adverse pregnancy outcomes.*
 
 ### Discussion
