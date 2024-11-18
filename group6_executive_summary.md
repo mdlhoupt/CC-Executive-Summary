@@ -9,7 +9,7 @@ We used scoping review methods, conducting a comprehensive search of the literat
 #### RESULTS
 The included original research studies spanned 58 countries, although the majority were conducted in North America and Asia. Across these studies, 19 different adverse fetal developmental outcomes were found to be associated with heat exposure (Figure 1). Preterm birth, low birthweight, and stillbirth were the most commonly reported outcomes.
 
-<img src="Histogram of Developmental outcomes" alt="Bar graph" width="800"/>
+<img src="Execsumm_bargraph.png" alt="Histogram of developmental outcomes" width="800"/>
 
 ***Figure 1.** Adverse prenatal developmental outcomes associated with exposure to elevated ambient temperatures. These outcomes were all reported by the original research articles found in our literature search. 19 different outcomes were identified, with preterm birth being the most reported outcome.*
 
