@@ -1,4 +1,4 @@
-<h2 align="center">The Effect of Elevated Ambient Temperature on Prenatal Development: A Public Summary</h2>
+<h2 align="center">The Effect of Elevated Ambient Temperature on Prenatal Development: Executive Public Summary</h2>
 
 #### INTRODUCTION
 Climate change, marked by rising temperatures and increasingly frequent and severe heat events, is a growing threat to global health (Poursafa, Keikha, and Kelishadi 2015). Pregnant individuals are especially vulnerable, as physiological changes during pregnancy reduce heat tolerance. This increased sensitivity to elevated ambient temperatures can lead to disrupted fetal development. We review how heat exposure impacts prenatal development and highlight the need for targeted interventions.
