@@ -212,3 +212,4 @@ Zhong, Qiong, Chan Lu, Weishe Zhang, Xiangrong Zheng, and Qihong Deng. 2018. “
 Zutphen, Alissa R. Van, Shao Lin, Barbara A. Fletcher, and Syni-An Hwang. 2012. “A Population-Based Case–Control Study of Extreme Summer Temperature and Birth Defects.” Environmental Health Perspectives 120 (10): 1443. https://doi.org/10.1289/ehp.1104671.
 
 
+
