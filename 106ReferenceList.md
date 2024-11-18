@@ -69,7 +69,7 @@ Dresser, Caleb, Shruthi Mahalingaiah, and Kari C. Nadeau. 2024. “Preterm and E
 
 Essers, Esmée, Laura Granés, Scott Delaney, Joan Ballester, Susana Santos, Sami Petricola, Tiffany C Yang, et al. 2024. “Ambient Air Temperature Exposure and Foetal Size and Growth in Three European Birth Cohorts.” Environment International 186 (April):108619. https://doi.org/10.1016/j.envint.2024.108619.
 
-Giudice, Linda C. 2023. “Commentary on the Climate Crisis and Women’s Health: Time for Action.” International Journal of Gynaecology and Obstetrics: The Official Organ of the International Federation of Gynaecology and Obstetrics 160 (2): 455–56. https://doi.org/10.1002/ijgo.14235.
+Giudice, Linda C. 2023. “Commentary on the Climate Crisis and Women’s Health: Time for Action.” International Journal of Gynaecology and Obstetrics: The Official Organ of the International Federation of Gynaecology and Obstetrics 160 (2): 455–56. https://doi.org/10.1002/ijgo.14235.
 
 He, Jian-Rong, Yu Liu, Xiao-Yan Xia, Wen-Jun Ma, Hua-Liang Lin, Hai-Dong Kan, Jin-Hua Lu, et al. 2016. “Ambient Temperature and the Risk of Preterm Birth in Guangzhou, China (2001-2011).” Environmental Health Perspectives 124 (7): 1100–1106. https://doi.org/10.1289/ehp.1509778.
 
@@ -210,4 +210,5 @@ Zhao, Shuangshuang, Jie Xu, Wen Li, Yingying Lu, Linxiang Huang, Haoyi Xu, Mingx
 Zhong, Qiong, Chan Lu, Weishe Zhang, Xiangrong Zheng, and Qihong Deng. 2018. “Preterm Birth and Ambient Temperature: Strong Association during Night-Time and Warm Seasons.” Journal of Thermal Biology 78 (December):381–90. https://doi.org/10.1016/j.jtherbio.2018.11.002.
 
 Zutphen, Alissa R. Van, Shao Lin, Barbara A. Fletcher, and Syni-An Hwang. 2012. “A Population-Based Case–Control Study of Extreme Summer Temperature and Birth Defects.” Environmental Health Perspectives 120 (10): 1443. https://doi.org/10.1289/ehp.1104671.
+
 
