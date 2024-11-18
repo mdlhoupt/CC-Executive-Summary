@@ -1,7 +1,7 @@
 <h2 align="center">The Effect of Elevated Ambient Temperature on Prenatal Development: Executive Public Summary</h2>
 
 #### INTRODUCTION
-Climate change, marked by rising temperatures and increasingly frequent and severe heat events, is a growing threat to global health (Poursafa, Keikha, and Kelishadi 2015). Pregnant individuals are especially vulnerable, as physiological changes during pregnancy reduce heat tolerance. This increased sensitivity to elevated ambient temperatures can lead to disrupted fetal development. We review how heat exposure impacts prenatal development and highlight the need for targeted interventions.
+Climate change, marked by rising temperatures and increasingly frequent and severe heat events, is a growing threat to global health (Roos et al. 2021). Pregnant individuals are especially vulnerable, as physiological changes during pregnancy reduce heat tolerance. This increased sensitivity to elevated ambient temperatures can lead to disrupted fetal development. We review how heat exposure impacts prenatal development and highlight the need for targeted interventions.
 
 #### METHODS
 We used scoping review methods, conducting a comprehensive search of the literature for studies on both prenatal development and heat exposure. This yielded 72 original research articles and 35 review articles [(see dataset here)](106ReferenceList.md) which we analyzed numerically and by examining major themes. 
@@ -36,8 +36,6 @@ Cowell, Whitney, Natasha Ard, Teresa Herrera, Eleanor A. Medley, and Leonardo Tr
 Dalugoda, Yohani, Jyothi Kuppa, Hai Phung, Shannon Rutherford, and Dung Phung. 2022. “Effect of Elevated Ambient Temperature on Maternal, Foetal, and Neonatal Outcomes: A Scoping Review.” International Journal of Environmental Research and Public Health 19 (3): 1771. https://doi.org/10.3390/ijerph19031771.
 
 Dosio, Alessandro, Lorenzo Mentaschi, Erich Markus Fischer, and Klaus Wyser. 2018. “Extreme Heat Waves under 1.5°C and 2°C Global Warming.” ENVIRONMENTAL RESEARCH LETTERS, April. https://doi.org/10.1088/1748-9326/aab827.
-
-Poursafa, Parinaz, Mojtaba Keikha, and Roya Kelishadi. 2015. “Systematic Review on Adverse Birth Outcomes of Climate Change.” Journal of Research in Medical Sciences : The Official Journal of Isfahan University of Medical Sciences 20 (4): 397.
 
 Roos, Nathalie, Sari Kovats, Shakoor Hajat, Veronique Filippi, Matthew Chersich, Stanley Luchters, Fiona Scorgie, Britt Nakstad, Olof Stephansson, and CHAMNHA Consortium. 2021. “Maternal and Newborn Health Risks of Climate Change: A Call for Awareness and Global Action.” Acta Obstetricia Et Gynecologica Scandinavica 100 (4): 566–70. https://doi.org/10.1111/aogs.14124.
 
